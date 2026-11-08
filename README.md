@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Baron0224/Baron0224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Baron
 
-Here are some ideas to get you started:
+🎓 计算机科学与技术专业 · 大三在读
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🚀 关于我
+
+我是 **Baron**，一名计算机科学与技术专业的大三学生。
+
+## 🛠️ 编程语言
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## 📫 联系方式
+
+- **Gmail**：[muborun0224@gmail.com](mailto:muborun0224@gmail.com)
+- **Proton Mail**：[muborun0224@proton.me](mailto:muborun0224@proton.me)
+
+---
+
+<div align="center">
+
+Keep coding, keep learning.
+
+</div>
